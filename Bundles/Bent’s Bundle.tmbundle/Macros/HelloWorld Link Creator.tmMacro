@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>moveToBeginningOfLineAndModifySelection:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>copy:</string>
+		</dict>
+		<dict>
+			<key>argument</key>
+			<string>[</string>
+			<key>command</key>
+			<string>insertText:</string>
+		</dict>
+		<dict>
+			<key>argument</key>
+			<string>(</string>
+			<key>command</key>
+			<string>insertText:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>paste:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>~@L</string>
+	<key>name</key>
+	<string>HelloWorld Link Creator</string>
+	<key>uuid</key>
+	<string>E7949A78-6E82-469A-A8E6-DAE77B70BA00</string>
+</dict>
+</plist>
