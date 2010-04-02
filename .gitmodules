@@ -187,3 +187,6 @@
 [submodule "Bundles/Markdown.tmbundle"]
 	path = Bundles/Markdown.tmbundle
 	url = git://github.com/textmate/markdown.tmbundle
+[submodule "Bundles/javascript-jquery.tmbundle"]
+	path = Bundles/javascript-jquery.tmbundle
+	url = git://github.com/textmate/javascript-jquery.tmbundle.git
