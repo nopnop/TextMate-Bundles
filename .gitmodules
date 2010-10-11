@@ -196,3 +196,6 @@
 [submodule "Bundles/javascript-helpers.tmbundle"]
 	path = Bundles/javascript-helpers.tmbundle
 	url = git@github.com:bentruyman/javascript-helpers.tmbundle.git
+[submodule "Bundles/jade.tmbundle"]
+	path = Bundles/jade.tmbundle
+	url = http://github.com/miksago/jade-tmbundle.git
