@@ -199,3 +199,9 @@
 [submodule "Bundles/jade.tmbundle"]
 	path = Bundles/jade.tmbundle
 	url = http://github.com/miksago/jade-tmbundle.git
+[submodule "Bundles/nginx.tmbundle"]
+	path = Bundles/nginx.tmbundle
+	url = http://github.com/johnmuhl/nginx-tmbundle.git
+[submodule "Bundles/html5.tmbundle"]
+	path = Bundles/html5.tmbundle
+	url = http://github.com/johnmuhl/html5.tmbundle.git
