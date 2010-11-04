@@ -205,3 +205,9 @@
 [submodule "Bundles/html5.tmbundle"]
 	path = Bundles/html5.tmbundle
 	url = http://github.com/johnmuhl/html5.tmbundle.git
+[submodule "Bundles/CSS3Please.tmbundle"]
+	path = Bundles/CSS3Please.tmbundle
+	url = git://github.com/filipepina/CSS3-Please-TextMate-Bundle.git
+[submodule "Bundles/CSS3.tmbundle"]
+	path = Bundles/CSS3.tmbundle
+	url = git://github.com/nickcharlton/CSS3-Bundle.git
