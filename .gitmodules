@@ -133,9 +133,6 @@
 [submodule "Bundles/Ruby on Rails.tmbundle"]
 	path = Bundles/Ruby on Rails.tmbundle
 	url = git://github.com/textmate/ruby-on-rails.tmbundle
-[submodule "Bundles/Ruby RSpec.tmbundle"]
-	path = Bundles/Ruby RSpec.tmbundle
-	url = git://github.com/textmate/ruby-rspec.tmbundle
 [submodule "Bundles/Ruby.tmbundle"]
 	path = Bundles/Ruby.tmbundle
 	url = git://github.com/textmate/ruby.tmbundle
