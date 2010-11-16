@@ -211,3 +211,6 @@
 [submodule "Bundles/CSS3.tmbundle"]
 	path = Bundles/CSS3.tmbundle
 	url = git://github.com/nickcharlton/CSS3-Bundle.git
+[submodule "Themes/WebPreview/github"]
+	path = Themes/WebPreview/github
+	url = git://github.com/kneath/github_textmate_preview.git
