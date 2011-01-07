@@ -211,6 +211,3 @@
 [submodule "Themes/WebPreview/github"]
 	path = Themes/WebPreview/github
 	url = git://github.com/kneath/github_textmate_preview.git
-[submodule "Themes/Coal-Graal.tmTheme"]
-	path = Themes/Coal-Graal.tmTheme
-	url = https://github.com/baskerville/Coal-Graal.tmTheme.git
