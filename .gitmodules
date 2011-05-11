@@ -211,3 +211,6 @@
 [submodule "Themes/WebPreview/github"]
 	path = Themes/WebPreview/github
 	url = git://github.com/kneath/github_textmate_preview.git
+[submodule "Bundles/jshint.tmbundle"]
+	path = Bundles/jshint.tmbundle
+	url = git://github.com/bpierre/jshint.tmbundle.git
