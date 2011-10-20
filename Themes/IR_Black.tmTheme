@@ -20,7 +20,7 @@
 				<key>lineHighlight</key>
 				<string>#FFFFFF24</string>
 				<key>selection</key>
-				<string>#4F4F4FCC</string>
+				<string>#FFFFFF66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -159,7 +159,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#A8FF60</string>
 			</dict>
