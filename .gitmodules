@@ -190,18 +190,15 @@
 [submodule "Bundles/javascript-tools.tmbundle"]
 	path = Bundles/javascript-tools.tmbundle
 	url = git://github.com/bentruyman/javascript-tools.tmbundle.git
-[submodule "Bundles/javascript-helpers.tmbundle"]
-	path = Bundles/javascript-helpers.tmbundle
-	url = git://github.com/bentruyman/javascript-helpers.tmbundle.git
 [submodule "Bundles/jade.tmbundle"]
 	path = Bundles/jade.tmbundle
-	url = http://github.com/miksago/jade-tmbundle.git
+	url = git://github.com/miksago/jade-tmbundle.git
 [submodule "Bundles/nginx.tmbundle"]
 	path = Bundles/nginx.tmbundle
-	url = http://github.com/johnmuhl/nginx-tmbundle.git
+	url = git://github.com/johnmuhl/nginx-tmbundle.git
 [submodule "Bundles/html5.tmbundle"]
 	path = Bundles/html5.tmbundle
-	url = http://github.com/johnmuhl/html5.tmbundle.git
+	url = git://github.com/johnmuhl/html5.tmbundle.git
 [submodule "Bundles/CSS3Please.tmbundle"]
 	path = Bundles/CSS3Please.tmbundle
 	url = git://github.com/filipepina/CSS3-Please-TextMate-Bundle.git
