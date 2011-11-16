@@ -1,8 +1,8 @@
 #!/bin/sh
 
-APP_DIR    = "~/Library/Application Support/"
-TM_DIR     = $APP_DIR/Textmate
-BACKUP_DIR = $TM_DIR-Backup
+APP_DIR="~/Library/Application Support/"
+TM_DIR=$APP_DIR/Textmate
+BACKUP_DIR=$TM_DIR-Backup
 
 mv $TM_DIR $BACKUP_DIR
 git clone git://github.com/bentruyman/TextMate-Bundles.git $TM_DIR
