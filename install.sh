@@ -5,7 +5,7 @@ APP_DIR=~/Library/Application\ Support
 TM_DIR=$APP_DIR/TextMate
 BACKUP_DIR=$TM_DIR-Backup
 
-if [[ -f $TM_DIR ]]; then
+if [[ -d "$TM_DIR" ]]; then
 	mv "$TM_DIR" "$BACKUP_DIR"
 fi
 
