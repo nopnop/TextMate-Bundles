@@ -189,7 +189,7 @@
 	url = git://github.com/textmate/javascript-jquery.tmbundle.git
 [submodule "Bundles/javascript-tools.tmbundle"]
 	path = Bundles/javascript-tools.tmbundle
-	url = git://github.com/subtleGradient/javascript-tools.tmbundle.git
+	url = git://github.com/bentruyman/javascript-tools.tmbundle.git
 [submodule "Bundles/javascript-helpers.tmbundle"]
 	path = Bundles/javascript-helpers.tmbundle
 	url = git://github.com/bentruyman/javascript-helpers.tmbundle.git
