@@ -220,3 +220,6 @@
 [submodule "Bundles/JsDoc-Toolkit.tmbundle"]
 	path = Bundles/JsDoc-Toolkit.tmbundle
 	url = git://github.com/csaccheri/JsDoc-Toolkit.tmbundle.git
+[submodule "Bundles/Emoticons.tmbundle"]
+	path = Bundles/Emoticons.tmbundle
+	url = git://github.com/bentruyman/Emoticons.tmbundle.git
