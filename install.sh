@@ -1,9 +1,17 @@
 #!/bin/sh
 
+CUR_DIR=`pwd`
 APP_DIR=~/Library/Application\ Support
 TM_DIR=$APP_DIR/TextMate
 BACKUP_DIR=$TM_DIR-Backup
 
-mv "$TM_DIR" "$BACKUP_DIR"
+if [[ -f $TM_DIR ]]; then
+	mv "$TM_DIR" "$BACKUP_DIR"
+fi
+
 git clone git://github.com/bentruyman/TextMate-Bundles.git "$TM_DIR"
-git --git-dir="$TM_DIR"/.git submodule update --init
+
+# lame workaround as --work-tree doesn't seem to work
+cd "$TM_DIR"
+git submodule update --init
+cd "$CUR_DIR"
