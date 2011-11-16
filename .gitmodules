@@ -192,7 +192,7 @@
 	url = git://github.com/subtleGradient/javascript-tools.tmbundle.git
 [submodule "Bundles/javascript-helpers.tmbundle"]
 	path = Bundles/javascript-helpers.tmbundle
-	url = git@github.com:bentruyman/javascript-helpers.tmbundle.git
+	url = git://github.com/bentruyman/javascript-helpers.tmbundle.git
 [submodule "Bundles/jade.tmbundle"]
 	path = Bundles/jade.tmbundle
 	url = http://github.com/miksago/jade-tmbundle.git
@@ -213,7 +213,7 @@
 	url = git://github.com/kneath/github_textmate_preview.git
 [submodule "Bundles/jshint.tmbundle"]
 	path = Bundles/jshint.tmbundle
-	url = git@github.com:bentruyman/jshint.tmbundle.git
+	url = git://github.com/bentruyman/jshint.tmbundle.git
 [submodule "Bundles/CoffeeScript.tmbundle"]
 	path = Bundles/CoffeeScript.tmbundle
 	url = git://github.com/jashkenas/coffee-script-tmbundle.git
