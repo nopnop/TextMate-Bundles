@@ -220,3 +220,6 @@
 [submodule "Bundles/Emoticons.tmbundle"]
 	path = Bundles/Emoticons.tmbundle
 	url = git://github.com/bentruyman/Emoticons.tmbundle.git
+[submodule "Bundles/groovy-grails.tmbundle"]
+	path = Bundles/groovy-grails.tmbundle
+	url = git://github.com/textmate/groovy-grails.tmbundle.git
