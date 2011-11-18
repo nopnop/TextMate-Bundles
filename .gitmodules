@@ -223,3 +223,6 @@
 [submodule "Bundles/groovy-grails.tmbundle"]
 	path = Bundles/groovy-grails.tmbundle
 	url = git://github.com/textmate/groovy-grails.tmbundle.git
+[submodule "Bundles/javascript-helpers.tmbundle"]
+	path = Bundles/javascript-helpers.tmbundle
+	url = git://github.com/bentruyman/javascript-helpers.tmbundle.git
