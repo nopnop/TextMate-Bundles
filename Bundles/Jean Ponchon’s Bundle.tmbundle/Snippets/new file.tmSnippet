@@ -3,12 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>// Copyright 2011 Novadiscovery All Rights Reserved.
+	<string>// -----------------------------------------------------------------------------
+// Copyright © 2011-2012 Novadiscovery. All Rights Reserved.
+// -----------------------------------------------------------------------------
 
-/*!
+/**
  * $1
  *
- * @author Jean Ponchon &lt;jean.ponchon@novadiscovery.fr&gt;
+ * @author A Team &lt;ATeam@novadiscovery.fr&gt;
+ * @provide {$2}
  */
 $0</string>
 	<key>name</key>

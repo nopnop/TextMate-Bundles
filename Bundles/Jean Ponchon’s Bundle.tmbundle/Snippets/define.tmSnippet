@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>define(function(require) {
+
+	// IMPORTS
+	var Suka                   = require("suka");
+
+	// GLOBAL VARIABLES 
+	var _                      = Suka._;
+
+	$0
+
+	return;
+});
+</string>
+	<key>name</key>
+	<string>define</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>define</string>
+	<key>uuid</key>
+	<string>D2E89A58-82CD-47A2-8472-0177E6A54F2F</string>
+</dict>
+</plist>
