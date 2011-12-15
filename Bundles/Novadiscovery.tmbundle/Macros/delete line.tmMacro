@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>argument</key>
+			<dict>
+				<key>commands</key>
+				<array>
+					<dict>
+						<key>command</key>
+						<string>selectHardLine:</string>
+					</dict>
+					<dict>
+						<key>command</key>
+						<string>deleteBackward:</string>
+					</dict>
+				</array>
+			</dict>
+			<key>command</key>
+			<string>playMacroWithOptions:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>@d</string>
+	<key>name</key>
+	<string>delete line</string>
+	<key>uuid</key>
+	<string>7FAFD0F3-6B57-4E48-8D1D-2CB77F0C6315</string>
+</dict>
+</plist>

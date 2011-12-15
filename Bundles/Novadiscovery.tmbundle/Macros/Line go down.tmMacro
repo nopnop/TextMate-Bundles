@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>selectHardLine:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>moveSelectionLineDown:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>^~@</string>
+	<key>name</key>
+	<string>Line go down</string>
+	<key>uuid</key>
+	<string>3BB4F001-252B-4CD0-8F36-BF89CB4D4056</string>
+</dict>
+</plist>

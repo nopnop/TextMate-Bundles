@@ -6,12 +6,18 @@
 	<string>Novadiscovery</string>
 	<key>ordering</key>
 	<array>
+		<string>40FB26E1-6804-4302-8279-D111F04D9F26</string>
+		<string>3BB4F001-252B-4CD0-8F36-BF89CB4D4056</string>
+		<string>7FAFD0F3-6B57-4E48-8D1D-2CB77F0C6315</string>
 		<string>908F6275-FF01-4A59-BB48-9A00CEFB4266</string>
 		<string>8FA47D34-467F-4D0B-8200-B2220F56C55E</string>
 		<string>D183F0D5-0325-4805-A80A-7DEB10BCE8B1</string>
 		<string>F6573C51-072A-4AC2-8E14-F76119EEB12C</string>
 		<string>D8BA48C6-3141-44E9-AD1E-FE72F9F29EAD</string>
 		<string>57CD7217-4469-4FD0-98AF-88F331502FB6</string>
+		<string>EBC8B6A1-C968-4A86-A951-EB94F0B12794</string>
+		<string>D2E89A58-82CD-47A2-8472-0177E6A54F2F</string>
+		<string>A2264069-D4E4-45C4-A20E-8B5D0177EB4F</string>
 	</array>
 	<key>uuid</key>
 	<string>B44360C6-265D-43E2-A624-AE457C8D9AE4</string>
